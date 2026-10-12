@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "mined_car_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "caroremod:car_ore"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

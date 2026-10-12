@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "caroremod",
+  "version": "1.0.0",
+  "name": "CarOreMod",
+  "description": "A mod that adds car ores and car selling stations",
+  "authors": ["singhkushaldeep7"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.singhkushaldeep7.caroremod.CarOreMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.21.4",
+    "fabric-api": "*"
+  }
+}

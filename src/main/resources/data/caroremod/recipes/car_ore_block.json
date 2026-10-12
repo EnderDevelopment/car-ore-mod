@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SOS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "O": {
+      "item": "caroremod:car_ore"
+    }
+  },
+  "result": {
+    "item": "caroremod:car_ore_block"
+  }
+}
